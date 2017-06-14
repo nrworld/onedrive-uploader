@@ -7,9 +7,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
 
-/**
- * Created by ddcnikhilr on 10/20/15.
- */
 public class UploaderMain {
     public static void main(String[] args) {
         UploaderMain um = new UploaderMain();
